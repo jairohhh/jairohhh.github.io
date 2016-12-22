@@ -1225,7 +1225,7 @@
             "timeout": "5",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430165558479-de3cf8cf1478-2000x1333-17.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1254,8 +1254,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://youtube.com\" data-toolbar=\"-mbrBtnMove\">Gallerias</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/imprimir-2-2000x1342-56.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slider1-2000x625-40.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
