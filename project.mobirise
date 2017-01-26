@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "name": "jackjones",
     "theme": {
       "name": "mobirise3",
@@ -108,7 +108,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logux-320x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/pvs-460x128-85.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -160,7 +160,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Grupo IMP",
+          "title": "Grupo PSV",
           "text": "<p>Nuevas Ideas arte impresion tecnologia&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -230,7 +230,7 @@
             }
           },
           "title2": "Tecnologia",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "One &nbsp;big point",
           "caption2": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -242,7 +242,7 @@
             }
           },
           "title3": "Soluciones",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "exhaustive list of fonts",
           "caption3": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.",
           "button3": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -254,7 +254,7 @@
             }
           },
           "title4": "Videos",
-          "subtitle4": "Bill gives you the freedom to develop",
+          "subtitle4": "Gives you the freedom to develop",
           "caption4": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://yahoo.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -497,7 +497,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logux-320x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/pvs-460x128-14.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -685,7 +685,7 @@
             }
           },
           "title2": "Tecnologia",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "One of &nbsp;big points",
           "caption2": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.",
           "button2": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -697,7 +697,7 @@
             }
           },
           "title3": "Soluciones",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "&nbsp;exhaustive list of fonts",
           "caption3": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.",
           "button3": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -709,7 +709,7 @@
             }
           },
           "title4": "Videos",
-          "subtitle4": "Bill gives you the freedom to develop",
+          "subtitle4": "&nbsp;freedom to develop",
           "caption4": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://yahoo.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -872,7 +872,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logux-320x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/pvs-460x128-78.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1197,7 +1197,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logux-320x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/pvs-460x128-17.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1218,6 +1218,14 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1233,7 +1241,7 @@
                 "overlayOpacity": "0.6",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Grupo IMP",
+                "title": "Grupo PSV",
                 "showText": true,
                 "text": "Este Slider seria para la promo uno, descripcion aqui&nbsp;<br>kjdfhsdkfjsh hsdjf fhsjdkf dfjskdf sjdhfk",
                 "showButtons": true,
@@ -1273,15 +1281,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-10",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_name": "footer1",
@@ -1349,7 +1349,7 @@
             }
           },
           "title2": "Tecnologia",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "big points",
           "caption2": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario..",
           "button2": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -1361,7 +1361,7 @@
             }
           },
           "title3": "Soluciones",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "exhaustive list of fonts",
           "caption3": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.",
           "button3": "<a data-app-btn=\"true\" href=\"https://youtube.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -1373,7 +1373,7 @@
             }
           },
           "title4": "Videos",
-          "subtitle4": "Bill gives you the freedom to develop",
+          "subtitle4": "&nbsp;gives you the freedom to develop",
           "caption4": "Comparta con nosotros sus sugerencias, felicitaciones o reclamos sobre su viaje o equipaje dañado o de artículos faltantes llenando el siguiente formulario.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://yahoo.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
